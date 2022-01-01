@@ -4,8 +4,8 @@
 class AwsOnePunch < Formula
   desc "One punch to grant all command line AWS access"
   homepage "https://github.com/GaaraZhu/aws-one-punch"
-  url "https://github.com/GaaraZhu/aws-one-punch/releases/download/v1.0.4/aws-one-punch"
-  sha256 "60c1b58bde216e81c6a8aae056b06decb8784b8ff23eeb6bb9182a8ab2522bde"
+  url "https://github.com/GaaraZhu/aws-one-punch/releases/download/v1.1.0/aws-one-punch"
+  sha256 "e89f6afa2902ba1075b63a1320eaed5017a6939b029f00b5f0918a30cb1bfe93"
   license "MIT"
 
   # depends_on "cmake" => :build
